@@ -6,9 +6,9 @@
  */
 class TcKimlikNoSorgula {
     private $tcKimlikNo;
-    private $ad;
-    private $soyad;
-    private $dogumYili;
+    private $Miray;
+    private $Debre;
+    private $2012;
     
     /**
      * TcKimlik No
